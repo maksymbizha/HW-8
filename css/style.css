@@ -31,9 +31,16 @@
     padding: 20px 0 20px 20px;
 }
 
-.item_main{
+.item_text{
     width: 50%;
     display: inline-block;
     font-size: 16px;
     vertical-align: top;
+    line-height: 2;
+}
+.item_icon{
+    width: 50%;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
 }
