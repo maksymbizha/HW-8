@@ -1,0 +1,39 @@
+.content_block{
+    width: 100%;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.wrapper{
+    font-size: 0;
+    border: solid 2px red;
+    padding: 20px 0 20px 20px;
+}
+.item_header{
+    width: calc(100% / 3);
+    display: inline-block;
+    font-size: 16px;
+}
+
+.content_block_main{
+    width: 100%;
+}
+
+.container_main{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.wrapper_main{
+    font-size: 0;
+    border: solid 2px red;
+    padding: 20px 0 20px 20px;
+}
+
+.item_main{
+    width: 50%;
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: top;
+}
